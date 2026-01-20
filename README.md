@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Denmark</h1>
-<h3 align="center">A Student programmer from Philippines</h3>
+<h3 align="center">A student programmer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pricus27&label=Profile%20views&color=0e75b6&style=flat" alt="pricus27" /> </p>
 
 - 📫 How to reach me **henshin062@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
