@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denmark</h1>
-<h3 align="center">Aspiring Software Engineer | Programmer | University of Mindanao</h3>
+<h3 align="center">Aspiring Software Engineer | Programmer | Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pricus27&label=Profile%20views&color=0e75b6&style=flat" alt="pricus27" /> </p>
 
