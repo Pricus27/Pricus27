@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Denmark</h1>
-  <h3>Aspiring Software Engineer | Programmer | Computer Science</h3>
+  <h3>Aspiring Software Engineer | Gamer | Computer Science</h3>
 
   <p>📫 How to reach me: <strong>henshin062@gmail.com</strong></p>
 
